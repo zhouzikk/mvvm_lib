@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="YToolbar">
+        <attr name="showNavigation" format="boolean" />
+        <attr name="yNavigationIcon" format="reference" />
+        <attr name="centerTitle" format="string" />
+        <attr name="leftTitle" format="string" />
+        <attr name="titleTextColor" />
+    </declare-styleable>
+</resources>
